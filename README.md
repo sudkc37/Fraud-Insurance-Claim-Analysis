@@ -4,14 +4,14 @@ The analysis revealed that approximately 55% of the insurance policies examined 
 are related to mobile insurance, even though mobile insurance accounts for only 0.41% of the total insurance policies.
 
 Languages:
-SQL 
+SQL, 
 Python
 
 Liabries:
-Matplotlib
-Seaborn
-Plotly
-Streamlit
-Pandas
+Matplotlib,
+Seaborn,
+Plotly,
+Streamlit,
+Pandas,
 PandaSQL
 
